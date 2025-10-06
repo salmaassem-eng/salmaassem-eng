@@ -10,6 +10,10 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
 <table>
   <tr>
     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="HTML" />
+      <br>React
+    </td>
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
@@ -33,8 +37,6 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
@@ -43,6 +45,8 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
@@ -54,12 +58,6 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
