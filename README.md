@@ -14,6 +14,10 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
       <br>React
     </td>
     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="HTML" />
+      <br>Next
+    </td>
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
