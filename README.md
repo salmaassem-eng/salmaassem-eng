@@ -50,11 +50,11 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=restapi" width="65" height="65" alt="Rest API" />
+        <img src="https://skillicons.dev/icons?i=rest" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=csharp" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=Csharp" alt="icon" width="65" height="65" />
       <br>C#
     </td>
        <td align="center" width="96">
