@@ -38,11 +38,11 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="65" />
       <br>Typescript
     </td>
     <td align="center" width="96">
@@ -50,15 +50,15 @@ Welcome to my GitHub Page. I am Salma Assem and I am front-end developer, I alwa
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://skillicons.dev/icons?i=restapi" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=csharp" alt="icon" width="65" height="65" />
       <br>C#
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
       <br>C++
     </td>
   </tr>
